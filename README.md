@@ -16,7 +16,7 @@ Je suis Melchior Jorda, développeur full stack polyvalent. Basé en Espagne, je
 
 ## Projets récents
 
-![Site personnel](https://github.com/M-Jorda/melchior-jorda.online)
+[Site personnel](https://github.com/M-Jorda/melchior-jorda.online)
 
 ## Expériences professionnelles
 
@@ -44,9 +44,9 @@ Je suis Melchior Jorda, développeur full stack polyvalent. Basé en Espagne, je
 
 ## Contact
 
-- Email : jorda.j.fr@gmail.com
-- LinkedIn :![Melchior Jorda](https://www.linkedin.com/in/melchior-jorda-354a31270/)
-- Website : melchior-jorda.online
+- [Email](mailto:jorda.j.fr@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/melchior-jorda-354a31270/)
+- [Website](melchior-jorda.online)
 
 ## Statistiques GitHub
 
