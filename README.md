@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=2000&pause=1000&center=true&vCenter=true&width=1000&height=100&lines=M-JORDA)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=2000&pause=1000&center=true&vCenter=true&width=1000&height=100&lines=M-JORDA)]
 
 ![Avatar](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 
