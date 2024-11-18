@@ -2,56 +2,61 @@
 
 ![Avatar](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 
-## À propos de moi
+## Links
+- [Version française](README/README_FR.md)
+- [Versión en Español](README/README_ES.md)
+- [Visit the website](https://melchior-jorda.online/index.html)
 
-Je suis Melchior Jorda, développeur full stack polyvalent. Basé en Espagne, je suis passionné par le développement web et mobile, l'organisation de projets et la résolution de problèmes complexes.
+## About Me
 
-## Compétences
+I am Melchior Jorda, a versatile full-stack developer. Based in Spain, I am passionate about web and mobile development, project organization, and solving complex problems.
 
-- Langages : HTML/CSS, JavaScript, PHP, Java, C
-- Frameworks : Bootstrap, Angular, Symfony
-- Bases de données : MySQL
-- Outils : VSCode, Bitbucket, Trello, Figma, PhpStorm, PhpMyAdmin
-- Technologies : Node.js, Electron.js, jQuery
+## Skills
 
-## Projets récents
+- **Languages**: HTML/CSS, JavaScript, PHP, Java, C
+- **Frameworks**: Bootstrap, Angular, Symfony
+- **Databases**: MySQL
+- **Tools**: VSCode, Bitbucket, Trello, Figma, PhpStorm, PhpMyAdmin
+- **Technologies**: Node.js, Electron.js, jQuery
 
-[Site personnel](https://github.com/M-Jorda/melchior-jorda.online)
+## Recent Projects
 
-## Expériences professionnelles
+[Personal Website](https://github.com/M-Jorda/melchior-jorda.online)
 
-### Stagiaire Développeur Web
-2024
-- Développement d'une application de quiz et d'un site web pour événements
-- Amélioration des compétences en programmation orientée objet (OOP)
+## Professional Experience
 
-### Développeur Web et Mobile
-2023 - Présent
-- Développement d'applications web et mobiles avec HTML, Bootstrap, JavaScript et Angular
-- Utilisation de Symfony pour le développement backend
-- Gestion de projet avec Trello et gestion de version avec Git
+### Web Developer Intern
+**2024**
+- Developed a quiz app and a website for events
+- Improved object-oriented programming (OOP) skills
 
-## Éducation
+### Web and Mobile Developer
+**2023 - Present**
+- Developing web and mobile apps with HTML, Bootstrap, JavaScript, and Angular
+- Using Symfony for backend development
+- Managing projects with Trello and version control with Git
 
-- Common core, School 42 (largest network of IT schools in the world), 2024 - 2025
-- Diplôme de Développeur Web et Mobile, ENI School of Informatic (2023 - 2024)
+## Education
+
+- **Common Core**, School 42 (largest network of IT schools in the world), 2024 - 2025
+- **Web and Mobile Developer Diploma**, ENI School of Informatics (2023 - 2024)
 
 ## Certifications
 
-- **Introduction à HTML, CSS et SQL** (Sololearn): Démontrant mes bases solides en développement web et bases de données.
-- **Intermédiaire en Java** (Sololearn): Renforçant mes compétences en programmation orientée objet.
-- **Galactic Solver Problem** (NASA): Participant au concours international organisé par la NASA
+- **Introduction to HTML, CSS, and SQL** (Sololearn): Demonstrating a solid foundation in web development and databases.
+- **Intermediate Java** (Sololearn): Strengthening object-oriented programming skills.
+- **Galactic Solver Problem** (NASA): Participant in the international competition organized by NASA.
 
 ## Contact
 
 - [Email](mailto:jorda.j.fr@gmail.com)
-- [Linkedin](https://www.linkedin.com/in/melchior-jorda-354a31270/)
+- [LinkedIn](https://www.linkedin.com/in/melchior-jorda-354a31270/)
 - [Website](melchior-jorda.online)
 
-## Statistiques GitHub
+## GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=M-Jorda&show_icons=true&theme=radical)
 
-## Langages populaires
+## Popular Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Jorda&layout=compact&theme=radical)
